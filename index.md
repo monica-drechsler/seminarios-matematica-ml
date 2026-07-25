@@ -17,6 +17,8 @@
 <!-- Fim da configuração.-->
 <style>
   .site-footer { display: none; }
+
+  .page-header .btn { display: none; }
   
   .page-header {
       background-image: url("2 camadas sigmoid.png");
