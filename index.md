@@ -14,9 +14,19 @@
   src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js">
 </script>
 
-<!-- Fim da configuração. Abaixo, apenas o conteúdo! -->
+<!-- Fim da configuração.-->
+<style>
+  .site-footer { display: none; }
+  
+  .page-header {
+      background-image: url("2 camadas sigmoid.png");
+      background-size: cover;
+      background-position: center;
+      box-shadow: inset 0 0 0 2000px rgba(0, 0, 0, 0.5); 
+  }
+</style>
 
-## Seminários de Machine Learning e Matemática
+
 Acompanhe nossa agenda de apresentações e discussões.
 
 ---
@@ -24,7 +34,7 @@ Acompanhe nossa agenda de apresentações e discussões.
 ### Otimização Riemanniana e aprendizado de máquina
 **Palestrante:** MsC. Monica M. F. Drechsler  
 **Data:** 10 de Agosto de 2026 às 17:00  
-
 **Resumo:**  
 Neste seminário, damos início as palestras de matemática e machine learning falando sobre a otimização em variedades Riemannianas e sua ligação ao aprendizado de máquina. 
+
 *Link a ser disponibilizado próximo à palestra.*
