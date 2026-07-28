@@ -26,6 +26,10 @@
       background-position: center;
       box-shadow: inset 0 0 0 2000px rgba(0, 0, 0, 0.5); 
   }
+
+   h3 {
+      color: #005A9C !important; 
+  }
 </style>
 
 
