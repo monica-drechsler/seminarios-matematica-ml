@@ -21,7 +21,7 @@
   .page-header .btn { display: none; }
   
   .page-header {
-      background-image: url("2 camadas sigmoid.png");
+      background-image: url("gradiente descendente.png");
       background-size: cover;
       background-position: center;
       box-shadow: inset 0 0 0 2000px rgba(0, 0, 0, 0.5); 
@@ -35,8 +35,8 @@ Acompanhe nossa agenda de apresentações e discussões.
 
 ### Otimização Riemanniana e aprendizado de máquina
 **Palestrante:** MsC. Monica M. F. Drechsler  
-**Data:** 10 de Agosto de 2026 às 17:00  
+**Data:** 24 de Agosto de 2026 às 17:00  
 **Resumo:**  
-Neste seminário, damos início as palestras de matemática e machine learning falando sobre a otimização em variedades Riemannianas e sua ligação ao aprendizado de máquina. 
+Neste seminário, damos início as palestras do seminário falando sobre a otimização em variedades Riemannianas e sua ligação ao aprendizado de máquina. 
 
 *Link a ser disponibilizado próximo à palestra.*
