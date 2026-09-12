@@ -30,6 +30,40 @@
    h3 {
       color: #005A9C !important; 
   }
+
+   <style>
+  .site-footer { display: none; }
+
+  .page-header .btn { display: none; }
+  
+  .page-header {
+      background-image: url("gradiente descendente.png");
+      background-size: cover;
+      background-position: center;
+      box-shadow: inset 0 0 0 2000px rgba(0, 0, 0, 0.5); 
+  }
+
+   h3 {
+      color: #005A9C !important; 
+  }
+
+  .main-content a.meeting-link {
+      display: inline-block;
+      padding: 10px 22px;
+      margin: 10px 0 25px 0;
+      background-color: #005A9C;
+      color: #ffffff;
+      text-decoration: none;
+      border-radius: 6px;
+      font-weight: bold;
+      transition: background-color 0.2s ease;
+  }
+
+  .main-content a.meeting-link:hover {
+      background-color: #003f6e;
+      color: #ffffff;
+      text-decoration: none;
+  }
 </style>
 
 
