@@ -43,6 +43,4 @@ Acompanhe nossa agenda de apresentações e discussões.
 **Resumo:**  
 Neste seminário, damos início as palestras do seminário falando sobre o que é aprendizado de máquina do ponto de vista matemático, detalhando caminhos que podem ser seguidos. 
 
-    <a href="https://meet.google.com/dyn-mmvy-zac" class="meeting-link" target="_blank">
-            Acessar Videochamada
-        </a>
+<a href="https://meet.google.com/dyn-mmvy-zac" class="meeting-link" target="_blank">Acessar Videochamada</a>
