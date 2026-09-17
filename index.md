@@ -77,4 +77,12 @@ Acompanhe nossa agenda de apresentações e discussões.
 **Resumo:**  
 Neste seminário, damos início as palestras do seminário falando sobre o que é aprendizado de máquina do ponto de vista matemático, detalhando caminhos que podem ser seguidos. 
 
+<i>Os links dos seminários são postados próximo a data.</i> 
+
+### Teorema da Aproximação Universal e otimização Riemanniana 
+**Palestrante:** MsC. Monica M. F. Drechsler  
+**Data:** 21 de setembro de 2026 às 17:00  
+**Resumo:**  
+Nesta palestra daremos continuidade a discussão inicial do que é aprendizado de máquina chegando a pergunta: por que redes neurais são eficientes? Além disso, uma breve discussão com resultados obtidos ao utilizar otimização Riemanniana em um problema de aprendizado supervisionado. 
+
 <a href="https://meet.google.com/dyn-mmvy-zac" class="meeting-link" target="_blank">Acessar Videochamada</a>
