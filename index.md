@@ -71,6 +71,15 @@ Acompanhe nossa agenda de apresentações e discussões.
 
 ---
 
+### Boas vindas e introdução ao aprendizado de máquina
+**Palestrante:** MsC. Monica M. F. Drechsler  
+**Data:** 14 de setembro de 2026 às 17:00  
+**Resumo:**  
+Neste seminário, damos início as palestras do seminário falando sobre o que é aprendizado de máquina do ponto de vista matemático, detalhando caminhos que podem ser seguidos. 
+
+<i>Os links dos seminários são postados próximo a data.</i> 
+---
+
 ### Teorema da Aproximação Universal e Otimização Riemanniana 
 **Palestrante:** MsC. Monica M. F. Drechsler  
 **Data:** 21 de setembro de 2026 às 17:00  
@@ -79,14 +88,6 @@ Nesta palestra daremos continuidade a discussão inicial do que é aprendizado d
 
 <a href="https://meet.google.com/dyn-mmvy-zac" class="meeting-link" target="_blank">Acessar Videochamada</a>
 
----
 
-### Boas vindas e introdução ao aprendizado de máquina
-**Palestrante:** MsC. Monica M. F. Drechsler  
-**Data:** 14 de setembro de 2026 às 17:00  
-**Resumo:**  
-Neste seminário, damos início as palestras do seminário falando sobre o que é aprendizado de máquina do ponto de vista matemático, detalhando caminhos que podem ser seguidos. 
-
-<i>Os links dos seminários são postados próximo a data.</i> 
 
 
