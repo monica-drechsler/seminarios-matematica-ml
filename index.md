@@ -78,6 +78,7 @@ Acompanhe nossa agenda de apresentações e discussões.
 Neste seminário, damos início as palestras do seminário falando sobre o que é aprendizado de máquina do ponto de vista matemático, detalhando caminhos que podem ser seguidos. 
 
 <i>Os links dos seminários são postados próximo a data.</i> 
+
 ---
 
 ### Teorema da Aproximação Universal e Otimização Riemanniana 
