@@ -93,9 +93,10 @@ Acompanhe nossa agenda de apresentações e discussões.
 **Data:** 14 de setembro de 2026 às 17:00  
 **Resumo:**  
 Neste seminário, damos início as palestras do seminário falando sobre o que é aprendizado de máquina do ponto de vista matemático, detalhando caminhos que podem ser seguidos. 
+<i>Os links dos seminários são postados próximo a data.</i> 
 
 <a href="{{ site.baseurl }}/slides/Apresentacao-Seminarios-Geometria-e-ML.html" class="slides-link" target="_blank">Ver Slides</a>
-<i>Os links dos seminários são postados próximo a data.</i> 
+
 
 ---
 
