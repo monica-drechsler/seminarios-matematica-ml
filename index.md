@@ -64,8 +64,25 @@
       color: #ffffff;
       text-decoration: none;
   }
-</style>
+  .main-content a.slides-link {
+      display: inline-block;
+      padding: 10px 22px;
+      margin: 10px 0 25px 8px;
+      background-color: #ffffff;
+      color: #005A9C;
+      border: 2px solid #005A9C;
+      text-decoration: none;
+      border-radius: 6px;
+      font-weight: bold;
+      transition: background-color 0.2s ease, color 0.2s ease;
+  }
 
+  .main-content a.slides-link:hover {
+      background-color: #005A9C;
+      color: #ffffff;
+      text-decoration: none;
+  }
+</style>
 
 Acompanhe nossa agenda de apresentações e discussões.
 
@@ -77,6 +94,7 @@ Acompanhe nossa agenda de apresentações e discussões.
 **Resumo:**  
 Neste seminário, damos início as palestras do seminário falando sobre o que é aprendizado de máquina do ponto de vista matemático, detalhando caminhos que podem ser seguidos. 
 
+<a href="{{ site.baseurl }}/slides/Apresentacao-Seminarios-Geometria-e-ML.html" class="slides-link" target="_blank">Ver Slides</a>
 <i>Os links dos seminários são postados próximo a data.</i> 
 
 ---
@@ -88,6 +106,7 @@ Neste seminário, damos início as palestras do seminário falando sobre o que �
 Nesta palestra daremos continuidade a discussão inicial do que é aprendizado de máquina chegando a pergunta: por que redes neurais são eficientes? Além disso, uma breve discussão com resultados obtidos ao utilizar otimização Riemanniana em um problema de aprendizado supervisionado. 
 
 <a href="https://meet.google.com/dyn-mmvy-zac" class="meeting-link" target="_blank">Acessar Videochamada</a>
+<a href="{{ site.baseurl }}/slides/Presentation-Seminars-Geometry-and-ML.html" class="slides-link" target="_blank">Ver Slides</a>
 
 
 
