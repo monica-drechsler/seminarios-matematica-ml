@@ -106,8 +106,20 @@ Neste seminário, damos início as palestras do seminário falando sobre o que �
 **Resumo:**  
 Nesta palestra daremos continuidade a discussão inicial do que é aprendizado de máquina chegando a pergunta: por que redes neurais são eficientes? Além disso, uma breve discussão com resultados obtidos ao utilizar otimização Riemanniana em um problema de aprendizado supervisionado. 
 
-<a href="https://meet.google.com/dyn-mmvy-zac" class="meeting-link" target="_blank">Acessar Videochamada</a>
 <a href="{{ site.baseurl }}/slides/Presentation-Seminars-Geometry-and-ML.html" class="slides-link" target="_blank">Ver Slides</a>
+
+---
+
+### Otimização Riemanniana
+**Palestrante:** Prof. Dr. Marcos Alexandrino
+**Data:** 05 de outubro de 2026 às 17:00  
+**Resumo:**  
+A ser adicionado. 
+
+<i>Os links dos seminários são postados próximo a data.</i> 
+
+
+
 
 
 
