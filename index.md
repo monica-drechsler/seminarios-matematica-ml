@@ -110,13 +110,16 @@ Nesta palestra daremos continuidade a discussão inicial do que é aprendizado d
 
 ---
 
-### Otimização Riemanniana
-**Palestrante:** Prof. Dr. Marcos Alexandrino
-**Data:** 05 de outubro de 2026 às 17:00  
-**Resumo:**  
-A ser adicionado. 
+### Otimização em Variedades Riemannianas
 
-<i>Os links dos seminários são postados próximo a data.</i> 
+**Palestrante:** Prof. Dr. Marcos Alexandrino
+
+**Data:** 05 de outubro de 2026 às 17:00  
+
+**Resumo:**  
+Por que algoritmos tão simples quanto a descida do gradiente funcionam tão bem no treinamento de redes neurais? Nesta palestra discutimos o treinamento em variedades Riemannianas. Nesse cenário, ferramentas clássicas da geometria diferencial e da análise ajudam a responder perguntas centrais, como aspectos de convergência e comportamento de métodos de otimização. 
+
+<a href="https://meet.google.com/dyn-mmvy-zac" class="meeting-link" target="_blank">Acessar Videochamada</a>
 
 
 
