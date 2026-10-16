@@ -88,14 +88,29 @@ Acompanhe nossa agenda de apresentações e discussões.
 
 ---
 
-### Boas vindas e introdução ao aprendizado de máquina
-**Palestrante:** MsC. Monica M. F. Drechsler  
-**Data:** 14 de setembro de 2026 às 17:00  
-**Resumo:**  
-Neste seminário, damos início as palestras do seminário falando sobre o que é aprendizado de máquina do ponto de vista matemático, detalhando caminhos que podem ser seguidos. 
-<i>Os links dos seminários são postados próximo a data.</i> 
 
-<a href="{{ site.baseurl }}/slides/Apresentacao-Seminarios-Geometria-e-ML.html" class="slides-link" target="_blank">Ver Slides</a>
+### Otimização em Variedades Riemannianas - part.2
+
+**Palestrante:** Prof. Dr. Marcos Alexandrino
+
+**Data:** 26 de outubro de 2026 às 17:00  
+
+**Resumo:**  
+Motivados por um problema de Aprendizado de Máquina, introduziremos o algoritmo do gradiente descendente Riemanniano. Exploraremos diversas questões acerca da convergência da sequência gerada por este algoritmo, incluindo a convergência fraca, a convergência forte e a convergência para um mínimo local.
+<a href="https://meet.google.com/dyn-mmvy-zac" class="meeting-link" target="_blank">Acessar Videochamada</a>
+
+---
+
+
+### Otimização em Variedades Riemannianas
+
+**Palestrante:** Prof. Dr. Marcos Alexandrino
+
+**Data:** 05 de outubro de 2026 às 17:00  
+
+**Resumo:**  
+Motivados por um problema de Aprendizado de Máquina, introduziremos o algoritmo do gradiente descendente Riemanniano. Exploraremos diversas questões acerca da convergência da sequência gerada por este algoritmo, incluindo a convergência fraca, a convergência forte e a convergência para um mínimo local. 
+
 
 
 ---
@@ -110,16 +125,17 @@ Nesta palestra daremos continuidade a discussão inicial do que é aprendizado d
 
 ---
 
-### Otimização em Variedades Riemannianas
-
-**Palestrante:** Prof. Dr. Marcos Alexandrino
-
-**Data:** 05 de outubro de 2026 às 17:00  
-
+### Boas vindas e introdução ao aprendizado de máquina
+**Palestrante:** MsC. Monica M. F. Drechsler  
+**Data:** 14 de setembro de 2026 às 17:00  
 **Resumo:**  
-Por que algoritmos tão simples quanto a descida do gradiente funcionam tão bem no treinamento de redes neurais? Nesta palestra discutimos o treinamento em variedades Riemannianas. Nesse cenário, ferramentas clássicas da geometria diferencial e da análise ajudam a responder perguntas centrais, como aspectos de convergência e comportamento de métodos de otimização. 
+Neste seminário, damos início as palestras do seminário falando sobre o que é aprendizado de máquina do ponto de vista matemático, detalhando caminhos que podem ser seguidos. 
+<i>Os links dos seminários são postados próximo a data.</i> 
 
-<a href="https://meet.google.com/dyn-mmvy-zac" class="meeting-link" target="_blank">Acessar Videochamada</a>
+<a href="{{ site.baseurl }}/slides/Apresentacao-Seminarios-Geometria-e-ML.html" class="slides-link" target="_blank">Ver Slides</a>
+
+
+
 
 
 
