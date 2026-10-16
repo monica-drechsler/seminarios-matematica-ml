@@ -84,7 +84,7 @@
   }
 </style>
 
-Acompanhe nossa agenda de apresentações e discussões.
+Acompanhe nossa agenda de apresentações e discussões, da mais recente a mais antiga.
 
 ---
 
@@ -97,6 +97,8 @@ Acompanhe nossa agenda de apresentações e discussões.
 
 **Resumo:**  
 Motivados por um problema de Aprendizado de Máquina, introduziremos o algoritmo do gradiente descendente Riemanniano. Exploraremos diversas questões acerca da convergência da sequência gerada por este algoritmo, incluindo a convergência fraca, a convergência forte e a convergência para um mínimo local.
+
+
 <a href="https://meet.google.com/dyn-mmvy-zac" class="meeting-link" target="_blank">Acessar Videochamada</a>
 
 ---
@@ -111,6 +113,8 @@ Motivados por um problema de Aprendizado de Máquina, introduziremos o algoritmo
 **Resumo:**  
 Motivados por um problema de Aprendizado de Máquina, introduziremos o algoritmo do gradiente descendente Riemanniano. Exploraremos diversas questões acerca da convergência da sequência gerada por este algoritmo, incluindo a convergência fraca, a convergência forte e a convergência para um mínimo local. 
 
+<i>Os links dos seminários são postados próximo a data.</i> 
+
 
 
 ---
@@ -121,6 +125,8 @@ Motivados por um problema de Aprendizado de Máquina, introduziremos o algoritmo
 **Resumo:**  
 Nesta palestra daremos continuidade a discussão inicial do que é aprendizado de máquina chegando a pergunta: por que redes neurais são eficientes? Além disso, uma breve discussão com resultados obtidos ao utilizar otimização Riemanniana em um problema de aprendizado supervisionado. 
 
+<i>Os links dos seminários são postados próximo a data.</i> 
+
 <a href="{{ site.baseurl }}/slides/Presentation-Seminars-Geometry-and-ML.html" class="slides-link" target="_blank">Ver Slides</a>
 
 ---
@@ -129,7 +135,8 @@ Nesta palestra daremos continuidade a discussão inicial do que é aprendizado d
 **Palestrante:** MsC. Monica M. F. Drechsler  
 **Data:** 14 de setembro de 2026 às 17:00  
 **Resumo:**  
-Neste seminário, damos início as palestras do seminário falando sobre o que é aprendizado de máquina do ponto de vista matemático, detalhando caminhos que podem ser seguidos. 
+Neste seminário, damos início as palestras do seminário falando sobre o que é aprendizado de máquina do ponto de vista matemático, detalhando caminhos que podem ser seguidos.
+
 <i>Os links dos seminários são postados próximo a data.</i> 
 
 <a href="{{ site.baseurl }}/slides/Apresentacao-Seminarios-Geometria-e-ML.html" class="slides-link" target="_blank">Ver Slides</a>
