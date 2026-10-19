@@ -93,13 +93,13 @@ Acompanhe nossa agenda de apresentações e discussões, da mais recente a mais 
 
 **Palestrante:** Prof. Dr. Marcos Alexandrino
 
-**Data:** 26 de outubro de 2026 às 17:00  
+**Data:** 09 de novembro de 2026 às 17:00  
 
 **Resumo:**  
 Motivados por um problema de Aprendizado de Máquina, introduziremos o algoritmo do gradiente descendente Riemanniano. Exploraremos diversas questões acerca da convergência da sequência gerada por este algoritmo, incluindo a convergência fraca, a convergência forte e a convergência para um mínimo local.
 
+<i>Os links dos seminários são postados próximo a data.</i> 
 
-<a href="https://meet.google.com/dyn-mmvy-zac" class="meeting-link" target="_blank">Acessar Videochamada</a>
 
 ---
 
