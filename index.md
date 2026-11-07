@@ -96,7 +96,7 @@ Acompanhe nossa agenda de apresentações e discussões, da mais recente a mais 
 **Data:** 09 de novembro de 2026 às 17:00  
 
 **Resumo:**  
-Motivados por um problema de Aprendizado de Máquina, introduziremos o algoritmo do gradiente descendente Riemanniano. Exploraremos diversas questões acerca da convergência da sequência gerada por este algoritmo, incluindo a convergência fraca, a convergência forte e a convergência para um mínimo local.
+MNesta palestra iremos abordar técnicas recentes de Otimização  Geometria Riemanniana para procurar candidatos a mínimos locais de uma função em uma variedade Riemanniana (ou mais geralmente uma variedade de Hilbert fortemente Riemanniana). Motivados pelo algoritmo do gradiente descendente, vamos propor pequenas alterações que flexibilizam o algoritmo e ainda sim permitirão garantir convergência do algoritmo em condições naturais (tanto para Machine Learning quanto para análise).
 
 <a href="https://meet.google.com/dyn-mmvy-zac" class="meeting-link" target="_blank">Acessar Videochamada</a>
 
